@@ -1,1 +1,3 @@
-# Projetos---HTML-e-CSS
+# Projetos HTML e CSS
+
+Neste repositorio encontrará meus aprendizados somente em HTML e CSS.
